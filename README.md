@@ -1,6 +1,6 @@
 # 2-8-21-Docker-installation-
 
-# docker2ndAug
+
 **1)Docker installation.**
     a)From docks.docker.com we have downloaded docker.
     b)After downloaded we got error while installing (Docker desktop requires server services to be enabled)
